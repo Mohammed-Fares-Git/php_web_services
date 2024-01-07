@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://localhost:80/WEB_SERVICE/soap/index.php" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+    <SOAP-ENV:Body>
+        <ns1:getAllResponse>
+            <return SOAP-ENC:arrayType="SOAP-ENC:Struct[17]" xsi:type="SOAP-ENC:Array">
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">1</id>
+                    <name xsi:type="xsd:string">Amine Ouanda</name>
+                    <email xsi:type="xsd:string">amine@ouanda.com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[4]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">HTML</item>
+                        <item xsi:type="xsd:string">CSS</item>
+                        <item xsi:type="xsd:string">KOTLIN</item>
+                        <item xsi:type="xsd:string">JAVA</item>
+                    </skills>
+                </item>
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">2</id>
+                    <name xsi:type="xsd:string">Soufian Felate</name>
+                    <email xsi:type="xsd:string">soufian@felate.com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[3]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">KOTLIN</item>
+                        <item xsi:type="xsd:string">HTML</item>
+                        <item xsi:type="xsd:string">JAVA</item>
+                    </skills>
+                </item>
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">3</id>
+                    <name xsi:type="xsd:string">Amine Halwai</name>
+                    <email xsi:type="xsd:string">amine@halwai.com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[4]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">KOTLIN</item>
+                        <item xsi:type="xsd:string">PHP</item>
+                        <item xsi:type="xsd:string">SWIFT</item>
+                        <item xsi:type="xsd:string">HTML</item>
+                    </skills>
+                </item>
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">4</id>
+                    <name xsi:type="xsd:string">Mohammed Fares</name>
+                    <email xsi:type="xsd:string">moha@fares.com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[3]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">HTML</item>
+                        <item xsi:type="xsd:string">CSS</item>
+                        <item xsi:type="xsd:string">KOTLIN</item>
+                    </skills>
+                </item>
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">5</id>
+                    <name xsi:type="xsd:string">Jihad El Hamzaoui</name>
+                    <email xsi:type="xsd:string">jihad@elhamzaoui.com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[3]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">SWIFT</item>
+                        <item xsi:type="xsd:string">PHP</item>
+                        <item xsi:type="xsd:string">KOTLIN</item>
+                    </skills>
+                </item>
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">6</id>
+                    <name xsi:type="xsd:string">Amine Sabir</name>
+                    <email xsi:type="xsd:string">amine@sabir.com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[3]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">HTML</item>
+                        <item xsi:type="xsd:string">CSS</item>
+                        <item xsi:type="xsd:string">KOTLIN</item>
+                    </skills>
+                </item>
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">7</id>
+                    <name xsi:type="xsd:string">Moaud Meknassi</name>
+                    <email xsi:type="xsd:string">mouad@meknassi.com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[3]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">HTML</item>
+                        <item xsi:type="xsd:string">KOTLIN</item>
+                        <item xsi:type="xsd:string">JAVA</item>
+                    </skills>
+                </item>
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">8</id>
+                    <name xsi:type="xsd:string">Oumaima Chahi</name>
+                    <email xsi:type="xsd:string">oumaima@chahi.com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[4]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">HTML</item>
+                        <item xsi:type="xsd:string">CSS</item>
+                        <item xsi:type="xsd:string">KOTLIN</item>
+                        <item xsi:type="xsd:string">PHP</item>
+                    </skills>
+                </item>
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">9</id>
+                    <name xsi:type="xsd:string">Ikram Abida</name>
+                    <email xsi:type="xsd:string">ikram@abida.com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[3]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">HTML</item>
+                        <item xsi:type="xsd:string">CSS</item>
+                        <item xsi:type="xsd:string">KOTLIN</item>
+                    </skills>
+                </item>
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">10</id>
+                    <name xsi:type="xsd:string">Fatimzahra Hara</name>
+                    <email xsi:type="xsd:string">fatima@hara.com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[3]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">HTML</item>
+                        <item xsi:type="xsd:string">CSS</item>
+                        <item xsi:type="xsd:string">KOTLIN</item>
+                    </skills>
+                </item>
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">11</id>
+                    <name xsi:type="xsd:string">Mouad Broski</name>
+                    <email xsi:type="xsd:string">mouad@broski.com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[3]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">KOTLIN</item>
+                        <item xsi:type="xsd:string">JAVA</item>
+                        <item xsi:type="xsd:string">PHP</item>
+                    </skills>
+                </item>
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">12</id>
+                    <name xsi:type="xsd:string">Ikram Hakuna Matata</name>
+                    <email xsi:type="xsd:string">ikram@ikram.com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[4]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">HTML</item>
+                        <item xsi:type="xsd:string">CSS</item>
+                        <item xsi:type="xsd:string">KOTLIN</item>
+                        <item xsi:type="xsd:string">JAVA</item>
+                    </skills>
+                </item>
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">13</id>
+                    <name xsi:type="xsd:string">Medhy El Hamzaoui</name>
+                    <email xsi:type="xsd:string">amine@ouanda.com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[3]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">HTML</item>
+                        <item xsi:type="xsd:string">CSS</item>
+                        <item xsi:type="xsd:string">KOTLIN</item>
+                    </skills>
+                </item>
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">14</id>
+                    <name xsi:type="xsd:string">Amine Zinawi</name>
+                    <email xsi:type="xsd:string">amine@zinaoui.com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[3]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">KOTLIN</item>
+                        <item xsi:type="xsd:string">JAVA</item>
+                        <item xsi:type="xsd:string">PHP</item>
+                    </skills>
+                </item>
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">15</id>
+                    <name xsi:type="xsd:string">Jamal Ouradi</name>
+                    <email xsi:type="xsd:string">jamal@ouardi.com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[7]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">HTML</item>
+                        <item xsi:type="xsd:string">CSS</item>
+                        <item xsi:type="xsd:string">KOTLIN</item>
+                        <item xsi:type="xsd:string">JAVA</item>
+                        <item xsi:type="xsd:string">PHP</item>
+                        <item xsi:type="xsd:string">SWIFT</item>
+                        <item xsi:type="xsd:string">AWS</item>
+                    </skills>
+                </item>
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">16</id>
+                    <name xsi:type="xsd:string">Mostamsik</name>
+                    <email xsi:type="xsd:string">mostamsik@sécurité".com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[6]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">HTML</item>
+                        <item xsi:type="xsd:string">CSS</item>
+                        <item xsi:type="xsd:string">PHP</item>
+                        <item xsi:type="xsd:string">SWIFT</item>
+                        <item xsi:type="xsd:string">FLUTER</item>
+                        <item xsi:type="xsd:string">AWS</item>
+                    </skills>
+                </item>
+                <item xsi:type="SOAP-ENC:Struct">
+                    <id xsi:type="xsd:int">17</id>
+                    <name xsi:type="xsd:string">Zakaria Fahim</name>
+                    <email xsi:type="xsd:string">zakaria@faihm.com</email>
+                    <skills SOAP-ENC:arrayType="xsd:string[4]" xsi:type="SOAP-ENC:Array">
+                        <item xsi:type="xsd:string">HTML</item>
+                        <item xsi:type="xsd:string">CSS</item>
+                        <item xsi:type="xsd:string">PHP</item>
+                        <item xsi:type="xsd:string">CSS</item>
+                    </skills>
+                </item>
+            </return>
+        </ns1:getAllResponse>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

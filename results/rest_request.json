@@ -1,0 +1,184 @@
+[
+  {
+    "etudiant_id": 1,
+    "name": "Amine Ouanda",
+    "email": "amine@ouanda.com",
+    "skills": [
+      "HTML",
+      "JAVA",
+      "CSS",
+      "KOTLIN"
+    ]
+  },
+  {
+    "etudiant_id": 2,
+    "name": "Soufian Felate",
+    "email": "soufian@felate.com",
+    "skills": [
+      "HTML",
+      "JAVA",
+      "KOTLIN"
+    ]
+  },
+  {
+    "etudiant_id": 3,
+    "name": "Amine Halwai",
+    "email": "amine@halwai.com",
+    "skills": [
+      "HTML",
+      "KOTLIN",
+      "SWIFT",
+      "PHP"
+    ]
+  },
+  {
+    "etudiant_id": 4,
+    "name": "Mohammed Fares",
+    "email": "moha@fares.com",
+    "skills": [
+      "HTML",
+      "CSS",
+      "KOTLIN"
+    ]
+  },
+  {
+    "etudiant_id": 5,
+    "name": "Jihad El Hamzaoui",
+    "email": "jihad@elhamzaoui.com",
+    "skills": [
+      "SWIFT",
+      "KOTLIN",
+      "PHP"
+    ]
+  },
+  {
+    "etudiant_id": 6,
+    "name": "Amine Sabir",
+    "email": "amine@sabir.com",
+    "skills": [
+      "HTML",
+      "KOTLIN",
+      "CSS"
+    ]
+  },
+  {
+    "etudiant_id": 7,
+    "name": "Moaud Meknassi",
+    "email": "mouad@meknassi.com",
+    "skills": [
+      "HTML",
+      "KOTLIN",
+      "JAVA"
+    ]
+  },
+  {
+    "etudiant_id": 8,
+    "name": "Oumaima Chahi",
+    "email": "oumaima@chahi.com",
+    "skills": [
+      "HTML",
+      "KOTLIN",
+      "CSS",
+      "PHP"
+    ]
+  },
+  {
+    "etudiant_id": 9,
+    "name": "Ikram Abida",
+    "email": "ikram@abida.com",
+    "skills": [
+      "CSS",
+      "HTML",
+      "KOTLIN"
+    ]
+  },
+  {
+    "etudiant_id": 10,
+    "name": "Fatimzahra Hara",
+    "email": "fatima@hara.com",
+    "skills": [
+      "HTML",
+      "CSS",
+      "KOTLIN"
+    ]
+  },
+  {
+    "etudiant_id": 11,
+    "name": "Mouad Broski",
+    "email": "mouad@broski.com",
+    "skills": [
+      "JAVA",
+      "PHP",
+      "KOTLIN"
+    ]
+  },
+  {
+    "etudiant_id": 12,
+    "name": "Ikram Hakuna Matata",
+    "email": "ikram@ikram.com",
+    "skills": [
+      "HTML",
+      "KOTLIN",
+      "JAVA",
+      "CSS"
+    ]
+  },
+  {
+    "etudiant_id": 13,
+    "name": "Medhy El Hamzaoui",
+    "email": "amine@ouanda.com",
+    "skills": [
+      "KOTLIN",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "etudiant_id": 14,
+    "name": "Amine Zinawi",
+    "email": "amine@zinaoui.com",
+    "skills": [
+      "JAVA",
+      "KOTLIN",
+      "PHP"
+    ]
+  },
+  {
+    "etudiant_id": 15,
+    "name": "Jamal Ouradi",
+    "email": "jamal@ouardi.com",
+    "skills": [
+      "CSS",
+      "JAVA",
+      "HTML",
+      "KOTLIN",
+      "PHP",
+      "SWIFT",
+      "AWS"
+    ]
+  },
+  {
+    "etudiant_id": 16,
+    "name": "Mostamsik",
+    "email": "mostamsik@sécurité\".com",
+    "skills": [
+      "HTML",
+      "PHP",
+      "AWS",
+      "CSS",
+      "SWIFT",
+      "FLUTER"
+    ]
+  },
+  {
+    "etudiant_id": 17,
+    "name": "Zakaria Fahim",
+    "email": "zakaria@faihm.com",
+    "skills": [
+      "HTML",
+      "CSS",
+      "CSS",
+      "PHP"
+    ]
+  }
+]
